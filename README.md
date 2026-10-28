@@ -1,86 +1,34 @@
-# ☁️ Hi, I'm Mahesh (Maahesh24) 👋
+<div align="center">
 
-### 🚀 Cloud & DevOps Engineer
-
-I specialize in building scalable, reliable, and automated cloud infrastructure and CI/CD pipelines using modern DevOps tools and practices.
-
----
-
-### 🛠️ Core Competencies & Tech Stack
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Cloud Platforms** | AWS, Azure |
-| **Infrastructure as Code** | Terraform |
-| **Containers & Orchestration** | Docker, Kubernetes |<div align="center">
-
-# ☁️ Mahesh Potdar (`Maahesh24`)
-### **Engineering Autonomous Cloud Infrastructure, DevSecOps & Production Platforms**
-*Cloud & DevOps Engineer • Multi-Cloud Architecture (AWS & Azure) • Infrastructure as Code • Kubernetes*
+# 🦁 MAHESH POTDAR 🦁
+### **TRANSFORMING INFRASTRUCTURE • SECURING AUTONOMOUS PLATFORMS**
+*Elite Cloud & DevOps Portfolio • Multicloud Architecture • Automated Governance*
 
 ---
 
-`ISO 27001 Aligned` • `Zero-Trust DevSecOps` • `GitOps Driven` • `99.99% High Availability` • `FinOps Optimized`
+` 🛡️ ISO 27001 ALIGNED ` ` 🔒 ZERO-TRUST DEVSECOPS ` ` 🔄 GITOPS DRIVEN ` ` ⚡ 99.99% HIGH AVAILABILITY ` ` 💰 FINOPS OPTIMIZED `
+
+---
+
+### **MAHESH POTDAR ENTERPRISE NETWORK**
+| 🌐 [ENTERPRISE PORTAL](https://github.com/Maahesh24) | 🤝 [LINKEDIN](https://linkedin.com) | 🛠️ [DEVOPS HUB](https://github.com/Maahesh24/Devops) |
+| :---: | :---: | :---: |
+
+### Engineering the Autonomous Enterprise: Cloud Sovereignty, DevSecOps & Enterprise AI
+*Global Digital Transformation Partner across Multi-Cloud Environments • Operating in Scale-Ready Infrastructures*
 
 </div>
 
----
-
 ## 📑 Strategic Portfolio & Repository Navigation
 
-| Flagship Project / Platform | Domain & Architectural Focus | Repository Link |
-| :--- | :--- | :--- |
-| **Azure DevOps Production Platform** | Enterprise CI/CD, Multi-Stage Pipelines & Governance | [Azure-devops-production-platform](/Maahesh24/Azure-devops-production-platform) |
-| **AWS Terraform EC2 Automation** | Declarative IaC, Modular VPC & Compute Provisioning | [terraform-ec2-project-](/Maahesh24/terraform-ec2-project-) |
-| **Multi-Cloud Terraform Setup** | Cross-Cloud Landing Zones & State Management (AWS/Azure) | [terraform-cloud-setup](/Maahesh24/terraform-cloud-setup) |
-| **Terraform Zero to Hero** | 7-Day Comprehensive HCL & Infrastructure Mastery | [terraform-zero-to-hero](/Maahesh24/terraform-zero-to-hero) |
-| **DevOps Engineering Hub** | End-to-End Automation Scripts, Containers & Tooling | [Devops](/Maahesh24/Devops) |
+| Repository | Focus Area & Description | Key Technologies | Status |
+| :--- | :--- | :--- | :--- |
+| [**Devops**](https://github.com/Maahesh24/Devops) | Complete DevOps pipeline implementations, infrastructure as code, and cloud architecture | Terraform, Docker, Kubernetes, CI/CD | Active |
+| [**Maahesh24**](https://github.com/Maahesh24/Maahesh24) | Central profile repository, enterprise portfolio showcase, and professional summary | Markdown, GitHub Actions | Active |
 
 ---
 
-## 🏛️ Engineering Operating Model
-
-I design and automate resilient, production-grade cloud platforms across **AWS** and **Microsoft Azure**. My focus is on transforming manual infrastructure and fragmented deployments into self-healing, declarative systems using **Terraform**, **Kubernetes**, and **Zero-Trust CI/CD pipelines**.
-
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                CLOUD & DEVOPS ENGINEERING OPERATING MODEL               │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-         ┌───────────────────────────┼───────────────────────────┐
-         ▼                           ▼                           ▼
-┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
-│  MULTI-CLOUD &  │         │   DECLARATIVE   │         │   ZERO-TRUST    │
-│  FINOPS INFRA   │         │   IAC & GITOPS  │         │   DEVSECOPS     │
-│  (AWS & Azure)  │         │   (Terraform)   │         │   PIPELINES     │
-└────────┬────────┘         └────────┬────────┘         └────────┬────────┘
-         │                           │                           │
-         └───────────────────────────┼───────────────────────────┘
-                                     │
-                                     ▼
-            ┌─────────────────────────────────────────────────┐
-            │        PRODUCTION PLATFORM CAPABILITIES         │
-            │  • Container Orchestration (Docker, EKS, AKS)   │
-            │  • Automated CI/CD (Azure DevOps, GitHub Actions)│
-            │  • Full-Stack Telemetry (Prometheus & Grafana)  │
-            └─────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Engineering Impact & Benchmarks
-
-| Strategic Metric | Target Benchmark | Architectural Lever |
-| :--- | :--- | :--- |
-| **Provisioning Velocity** | **90%+ Faster Delivery** | Reusable Terraform modules, remote state locking, automated PR plans |
-| **Release Lead Time** | **Hours → Minutes** | Multi-stage Azure DevOps & GitHub Actions pipelines with automated gates |
-| **Infrastructure Reliability** | **99.99% Uptime SLA** | Multi-AZ cloud topologies, auto-scaling groups, Kubernetes self-healing |
-| **Security & Compliance** | **Zero-Trust Posture** | Automated secret scanning, container image hardening, least-privilege IAM |
-| **Cloud Cost Efficiency** | **25–35% Run-Rate Savings** | Right-sizing compute, spot/reserved instances, automated cleanup schedules |
-
----
-
-## 🌐 Core Practice Areas & Architecture
+## 🛠️ Core Practice Areas & Architecture
 
 ```mermaid
 graph TD
@@ -130,6 +78,6 @@ graph TD
 ### 📌 What I Do
 
 - 🏗️ **Infrastructure Automation**: Provisioning cloud resources using Terraform.
-- 📦 **Containerization & Orchestration**: Deploying microservices with Docker and Kubernetes.
+- 🐳 **Containerization & Orchestration**: Deploying microservices with Docker and Kubernetes.
 - 🔄 **CI/CD Pipelines**: Automating testing, build, and deployment workflows.
 - 🛡️ **Cloud Security & Operations**: Implementing best practices for AWS and Azure environments.
