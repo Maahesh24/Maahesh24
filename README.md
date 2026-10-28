@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="Mahesh Potdar DevOps Banner" width="100%" />
+<img src="./watermarked_img_8343912654165026771.jpg" alt="Mahesh Potdar DevOps Banner" width="100%" />
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 ---
 
 ### **MAHESH POTDAR ENTERPRISE NETWORK**
-| 🌐 [ENTERPRISE PORTAL](/Maahesh24) | 🚀 [PRODUCTION PLATFORM](/Maahesh24/Azure-devops-production-platform) | 🏗️ [TERRAFORM IAC](/Maahesh24/terraform-ec2-project-) | ☁️ [CLOUD SETUP](/Maahesh24/terraform-cloud-setup) | ⚡ [DEVOPS HUB](/Maahesh24/Devops) |
+| 🌐 [ENTERPRISE PORTAL](/Maahesh24) | 🚀 [PRODUCTION PLATFORM](/Maahesh24/Azure-devops-production-platform) | 🏗️ [TERRAFORM IAC](/Maahesh24/terraform-ec2-project-) | ☁️ [CLOUD SETUP][...] |
 | :---: | :---: | :---: | :---: | :---: |
 
 </div>
@@ -34,30 +34,30 @@
 
 ## 🏛️ Engineering Operating Model
 
-I design and automate resilient, production-grade cloud platforms across **AWS** and **Microsoft Azure**. My focus is on transforming manual infrastructure and fragmented deployments into self-healing, declarative systems using **Terraform**, **Kubernetes**, and **Zero-Trust CI/CD pipelines**.
+I design and automate resilient, production-grade cloud platforms across **AWS** and **Microsoft Azure**. My focus is on transforming manual infrastructure and fragmented deployments into self-healing, policy-driven, highly observable systems that accelerate product delivery while preserving security and cost control.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────────────────┐
 │                CLOUD & DEVOPS ENGINEERING OPERATING MODEL               │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │
-         ┌───────────────────────────┼───────────────────────────┐
-         ▼                           ▼                           ▼
+└────────────────────────────────────┬───────────────────────────┬────────────┘
+                                     │                           │
+          ┌───────────────────────────┼───────────────────────────┐
+          ▼                           ▼                           ▼
 ┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
 │  MULTI-CLOUD &  │         │   DECLARATIVE   │         │   ZERO-TRUST    │
 │  FINOPS INFRA   │         │   IAC & GITOPS  │         │   DEVSECOPS     │
 │  (AWS & Azure)  │         │   (Terraform)   │         │   PIPELINES     │
 └────────┬────────┘         └────────┬────────┘         └────────┬────────┘
-         │                           │                           │
-         └───────────────────────────┼───────────────────────────┘
-                                     │
-                                     ▼
-            ┌─────────────────────────────────────────────────┐
-            │        PRODUCTION PLATFORM CAPABILITIES         │
-            │  • Container Orchestration (Docker, EKS, AKS)   │
-            │  • Automated CI/CD (Azure DevOps, GitHub Actions)│
-            │  • Full-Stack Telemetry (Prometheus & Grafana)  │
-            └─────────────────────────────────────────────────┘
+          │                           │                           │
+          └───────────────────────────┼───────────────────────────┘
+                                      │
+                                      ▼
+             ┌─────────────────────────────────────────────────┐
+             │        PRODUCTION PLATFORM CAPABILITIES         │
+             │  • Container Orchestration (Docker, EKS, AKS)   │
+             │  • Automated CI/CD (Azure DevOps, GitHub Actions)│
+             │  • Full-Stack Telemetry (Prometheus & Grafana)  │
+             └─────────────────────────────────────────────────┘
 ```
 
 ---
